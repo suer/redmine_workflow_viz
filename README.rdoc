@@ -1,0 +1,7 @@
+= workflow_viz
+is a redmine plugin to visualize workflow.
+
+= Installation
+1. $ cd REDMINE_ROOT
+2. $ ruby script/plugin install git://github.com/suer/redmine_workflow_viz.git
+
